@@ -1,4 +1,4 @@
-# Sample Code - 3rd Party Ruby On Rails API
+# Sample Code - Ruby On Rails
 
 ## 3rd Party Ruby On Rails API - 07/11/09
 
@@ -28,6 +28,7 @@ with attribution.
 
 
 ***** IMPORTANT NOTE *****
+
 This code is NOT officially supported by Plug 'n Pay Technologies.  As such, this
 module is being provided "AS IS".  If you have problems using/implimenting this
 3rd party Ruby API, please seek support assistance via this project's page on the
